@@ -5,6 +5,8 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 - <b>C# </b>
+  - <a href="https://github.com/rashidelshikh/Project---Student-Grade-Calculator" target="_blank">Student Grade Calculator Project</a>
+
 
 - <b>Python</b>
  
